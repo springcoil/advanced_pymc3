@@ -38,7 +38,6 @@ dependencies:
 - pyqt=5.6.0=py35_0
 - python=3.5.2=0
 - python-dateutil=2.5.3=py35_0
-- python.app=1.2=py35_4
 - pytz=2016.7=py35_0
 - pyyaml=3.12=py35_0
 - pyzmq=15.4.0=py35_0
