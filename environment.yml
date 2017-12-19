@@ -45,7 +45,6 @@ dependencies:
 - qtconsole=4.2.1=py35_1
 - readline=6.2=2
 - requests=2.11.1=py35_0
-- rise=4.0.0b1=py35_0
 - scikit-learn=0.18=np111py35_0
 - scipy=0.18.1=np111py35_0
 - setuptools=27.2.0=py35_0
